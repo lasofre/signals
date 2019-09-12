@@ -1,0 +1,1 @@
+- <img src="https://latex.codecogs.com/gif.latex?f_t=\text { Onset event at time bin } t " /> 
