@@ -1,1 +1,1 @@
-- <img src="https://latex.codecogs.com/gif.latex?f_t=\text { Onset event at time bin } t " /> 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
