@@ -1,1 +1,4 @@
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;y=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+# Integral de señales discretas
+##Definicion
+Teniendo en cuenta que la integral de una funcion esta definida por la ecuacion:
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;F(x)=\lim_{t\to0}\sum_{n=0}^{\infty}f_i(x)*\delta_t" title="Definicion de integral" />
